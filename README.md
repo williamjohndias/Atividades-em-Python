@@ -1,7 +1,7 @@
-# Atividades-em-Python
+# 📕 Atividades-em-Python
 Matriz, Lista, Equações..
 
-Atividades:
+# 📃 Atividades:
 
 1. Elabore um programa para ler um número inteiro do teclado e mostrar a soma dos
 números pares contidos entre 0 (zero) e esse número.
