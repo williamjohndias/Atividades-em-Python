@@ -24,7 +24,7 @@ Exemplo (n=5):
 Obs: Dado n inteiro positivo, dizemos que n é perfeito se for igual à soma de seus
 divisores positivos diferentes de n. Exemplo: 6 é perfeito, pois 1+2+3 = 6.
 
-5️⃣. Elabore um programa que receba 4 números inteiros positivos e mostre a relação e3ntre os
+5️⃣. Elabore um programa que receba 4 números inteiros positivos e mostre a relação entre os
 números, se esta relação forma uma P.A. (Progressão Aritmética) ou uma P.G. (Progressão
 Geométrica) ou não é nem P.A. nem P.G., se for uma P.A. ou uma P.G. mostrar a razão.
 
